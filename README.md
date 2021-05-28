@@ -10,7 +10,7 @@
 
 * I am Brazilian :brazil:  living in Maceió-AL :beach_umbrella: 
 
-  #####  :yin_yang: "Life is a constant evolution" :yin_yang:
+  ###  :yin_yang: "Life is a constant evolution" :yin_yang:
 
 ![GabriielB's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriielB&show_icons=true&theme=radical)
 
@@ -18,12 +18,7 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriielB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<br>
-
 ###  You can find me here :arrow_down: 
-
-<br>
 
 [![Instagram Badge](https://img.shields.io/badge/-gabrielbraga____-9cf?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://github.com/GabriielB)](https://www.instagram.com/gabrielbraga____/)
 
