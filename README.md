@@ -34,5 +34,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/@uGabrielB-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/GabriielB)](https://twitter.com/uGabrielB)
 
-[![LinkedIn Badge](https://img.shields.io/badge/Gabriel Braga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/felipe-%C3%A1vila-532225200)](https://www.linkedin.com/in/gabriel-braga-918576207/)
+[![LinkedIn Badge](https://img.shields.io/badge/Gabriel Braga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/gabriel-braga-918576207/)]
+
+
 
