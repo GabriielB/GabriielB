@@ -12,15 +12,12 @@
 
   #####  :yin_yang: "Life is a constant evolution" :yin_yang:
 
-```
 ![GabriielB's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriielB&show_icons=true&theme=radical)
-```
 
-```
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriielB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-```
 
 <br>
 
@@ -34,7 +31,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/@uGabrielB-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/GabriielB)](https://twitter.com/uGabrielB)
 
-[![LinkedIn Badge](https://img.shields.io/badge/Gabriel Braga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/gabriel-braga-918576207/)]
+
 
 
 
