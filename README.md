@@ -36,4 +36,4 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/Gabriel Braga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/felipe-%C3%A1vila-532225200)](https://www.linkedin.com/in/gabriel-braga-918576207/)
 
-![MicrosoftOutlook Badge](https://img.shields.io/badge/gabrielbraga1953@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:"gabrielbraga1953@hotmail.com")
+<img src="https://img.shields.io/badge/gabrielbraga1953@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> 
