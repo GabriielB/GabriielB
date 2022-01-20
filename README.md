@@ -2,7 +2,7 @@
 
 
 
-##  :computer: Software Developer :computer:
+##  :computer: Front-End Dev :computer:
 
 * Computer Science student :desktop_computer:
 
