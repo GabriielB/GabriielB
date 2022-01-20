@@ -19,7 +19,7 @@
 
 ###  You can find me here :arrow_down: 
 
-[![Instagram Badge](https://img.shields.io/badge/-gabrielbraga____-9cf?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://github.com/GabriielB)](https://www.instagram.com/gabrielbraga____/)
+[![Instagram Badge](https://img.shields.io/badge/-_gabriielbraga_-9cf?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://github.com/GabriielB)](https://www.instagram.com/_gabriielbraga_/)
 
 [![Twitter Badge](https://img.shields.io/badge/@uGabrielB-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/GabriielB)](https://twitter.com/uGabrielB)
 
