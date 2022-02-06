@@ -8,7 +8,7 @@
 
 * Focused on always learning and evolving :book:
 
-* I am Brazilian :brazil:  living in Maceió-AL :beach_umbrella: 
+* I am Brazilian :brazil:  
 
 <div align="left">
   <a href="https://github.com/GabriielB">
