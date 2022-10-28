@@ -2,7 +2,7 @@
 
 
 
-##  :computer: Front-End Dev :computer:
+##  :computer: Front-End Dev & Android Dev :computer:
 
 * Computer Science and Front-End student :desktop_computer:
 
