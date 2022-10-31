@@ -4,7 +4,7 @@
 
 ##  :computer: Front-End Dev & Android Dev :computer:
 
-* Computer Science and Front-End student :desktop_computer:
+* Computer Science and Android student :desktop_computer:
 
 * Focused on always learning and evolving :book:
 
