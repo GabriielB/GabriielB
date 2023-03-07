@@ -4,7 +4,7 @@
 
 ##  Full-stack Dev
 
-* Computer Science and Android student :desktop_computer:
+
 
 * Focused on always learning and evolving :book:
 
