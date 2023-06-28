@@ -2,7 +2,7 @@
 
 
 
-##  Full-stack Dev
+##  Mobile Dev | React Native
 
 
 
