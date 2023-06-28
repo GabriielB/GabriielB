@@ -19,10 +19,6 @@
 
 ###  You can find me here :arrow_down: 
 
-[![Instagram Badge](https://img.shields.io/badge/-_gabriielbraga_-9cf?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://github.com/GabriielB)](https://www.instagram.com/_gabriielbraga_/)
-
-[![Twitter Badge](https://img.shields.io/badge/@uGabrielB-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/GabriielB)](https://twitter.com/uGabrielB)
-
 <a href="https://www.linkedin.com/in/gabrielbragaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href = "mailto: gabrielbragaa1203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
