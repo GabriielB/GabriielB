@@ -16,6 +16,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriielB&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+### Stacks
+<div align="left">
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+</div>
+
 
 ###  You can find me here :arrow_down: 
 
