@@ -2,7 +2,7 @@
 
 
 
-##  Mobile Dev & Web Dev | React Native
+##  Mobile & Web Dev | React Native
 
 
 
