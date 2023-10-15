@@ -2,7 +2,7 @@
 
 
 
-##  Mobile & Web Dev | React Native | AdonisJS
+##  Mobile & Back-End | React Native | AdonisJS
 
 
 
