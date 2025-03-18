@@ -4,10 +4,6 @@
 
 ##  Mobile Developer
 
-
-
-* Focused on always learning and evolving :book:
-
 * I'm Brazilian :brazil:
   <br/>
 
